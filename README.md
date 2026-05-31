@@ -10,7 +10,7 @@ iii. NRF24L01 Wireless Module <br>
 > Pin Connections
 1. OLED Display (I2C)<br>
 >OLED Pin | ESP32 Pin<br>
->>>SDA - GPIO 21<br>
+>SDA - GPIO 21<br>
 SCL - GPIO 22 <br>
 VCC - 3.3V<br>
 GND - GND
@@ -19,7 +19,7 @@ GND - GND
 2. NRF24L01 Module
 
 >NRF24L01 Pin | ESP32 Pin <br>
->>>CE - GPIO 4<br>
+>CE - GPIO 4<br>
 CSN - GPIO 5<br>
 SCK - GPIO 18<br>
 MOSI - GPIO 19<br>
