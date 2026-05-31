@@ -1,6 +1,6 @@
 # NRF_Box-WiFi_Bluetooth_Deauther
-> Circuit Connections
->> Hardware Components
+ Circuit Connections
+>Hardware Components
 
 i. ESP32 Dev Module <br>
 ii. 0.96" OLED Display (SSD1306, I2C) <br>
